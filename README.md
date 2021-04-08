@@ -7,3 +7,7 @@ Then run the following code.
      npm start
 Open the given link in the browser.
 http://localhost:3000
+
+
+
+NB:It might required some spicific library and packages installed.
